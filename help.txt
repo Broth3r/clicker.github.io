@@ -1,0 +1,5 @@
+&emsp; << пробел размером M >>
+&ensp; << пробел размером N >>
+<img src="images/jpg"> << фото >>
+<img url(images/jpg)> << фото2 >>
+opacity: 0.5; = << 50% прозрачный >>

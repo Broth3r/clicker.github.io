@@ -1,0 +1,17 @@
+body {
+	background: url(https://cyberivanovo.ru/images/articles/news/dota2-update/24-06-2014/12810-dota2_ui_dashboard.png);
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.class1 {
+	float: none;
+	 background: url(images/jagga.jpg); /* Цвет фона */
+    border: 1px solid black; /* Параметры рамки */
+    padding: 10px; /* Поля вокруг текста */
+    margin-right: 20px; /* Отступ справа */
+    width: 40%; /* Ширина блока */
+	opacity: 1;
+}
+.dot3 {
+	opacity: 0.9;
+}
